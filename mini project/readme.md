@@ -1,4 +1,4 @@
-# CZ1115 Intro To Data Science & Artificial Intelligence Min-Projec
+# CZ1115 Intro To Data Science & Artificial Intelligence - Mini Project
 
 ## Topic
 Was Shopify Stock Price Affected by Covid-19 in Year 2020?
